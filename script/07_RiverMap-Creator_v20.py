@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="pygmt")
 CSV_DIR = "../csv/"
 CLASS_B_CSV = os.path.join(CSV_DIR, "class_b.csv")
 RIVER_SHAPEFILE = "../riverline/all_river/all_river.shp"
-HORIZONTAL_LOGO = "../img/RMC_long2.png"
+HORIZONTAL_LOGO = "../img/RMC_long.png"
 ICON_LOGO = "../img/RMC.png"
 A_PASS = "../img/a.png"
 B_PASS = "../img/b.png"
