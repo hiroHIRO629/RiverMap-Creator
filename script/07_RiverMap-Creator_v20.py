@@ -142,7 +142,6 @@ if r_type != "d":
                     gdf = gpd.read_file(RIVER_SHAPEFILE)
 
                     filtered_data = filter_gdf(gdf, r_type, str(r_code))
-
                     if filtered_data is not None:
                         if r_type == "c":
                             filtered_wsystem, filtered_gdf = filtered_data
