@@ -1,6 +1,6 @@
 # RiverMap-Creator
 ### 日本国内の対象河川を中心とした地図を自動作成するstreamlit製アプリです．
-### 主にpygmtとstreamlitで構成されています．
+### 主にpygmtとgeopandasで構成されています．
 
 pythonバージョン : 3.11.6
 
